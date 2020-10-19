@@ -1,6 +1,6 @@
 # swipeToRoadtrip
 
-A new Flutter project.
+The first steps with Flutter and Dart in a Mobile App Development course. This app should become the tinder for road trips in Switzerland. 
 
 ## Getting Started
 
