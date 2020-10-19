@@ -120,6 +120,7 @@ class _HomeState extends State<Home> {
             : InkWell(
                 onTap: () {
                   print("Jetzt starten");
+                  controller.animateToPage(RadiusPage());
                 },
                 child: Container(
                   height: Platform.isAndroid ? 70 : 60,
